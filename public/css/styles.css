@@ -1,0 +1,11 @@
+body {
+    background-color: lightblue;
+}
+
+nav, footer, main {
+    border: 5px solid black;
+    margin: 25px;
+    padding: 25px;
+    text-align: center;
+}
+
